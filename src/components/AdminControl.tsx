@@ -8,7 +8,7 @@ import {
     Zap, Settings2, Globe, Video as VideoIcon, UserPlus, Lock, Flame, 
     Clock, Eye, Ban, ShieldCheck, Activity, Phone, MapPin, Search, 
     ChevronRight, ArrowUpRight, Database, Server, Cpu, Layers, HardDrive, Terminal,
-    Radio, Menu, Key, Loader2
+    Radio, Menu, Key, Loader2, Bell
   } from "lucide-react";
 import { AvatarDisplay } from "./AvatarDisplay";
 import { toast } from "sonner";

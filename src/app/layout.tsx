@@ -2,7 +2,7 @@ import './globals.css';
 import { ReactNode } from 'react';
 import Script from 'next/script';
 import type { Metadata, Viewport } from 'next';
-import { VisualEditsMessenger } from "orchids-visual-edits";
+import VisualEditsMessenger from "../visual-edits/VisualEditsMessenger";
 
 export const metadata: Metadata = {
   title: 'Chatify',
